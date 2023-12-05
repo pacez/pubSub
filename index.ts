@@ -1,7 +1,7 @@
 /**
  * 发布订阅事件
  */
-import { showError } from '@seeyon/global';
+import { showError } from 'xx/ui';
 
 /* ========  声明区 开始 ======  */
 interface IMessageEvent {
